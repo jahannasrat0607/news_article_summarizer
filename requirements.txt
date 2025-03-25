@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+transformers
+torch
+deep_translator
+gtts
+huggingface_hub
